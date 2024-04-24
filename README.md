@@ -10,8 +10,10 @@ The purpose of the Online Vehicle Registration and Driver's License Application 
 
 ## Context Diagram of the product:
 
-<img width="410" alt="image" src="https://github.com/HemanthReddy10/Software-Management-And-Quality-Control/assets/99050861/bb0af638-eaa8-4912-8f6b-cb20f6e012ff">
+<img width="900" alt="image" src="https://github.com/HemanthReddy10/Software-Management-And-Quality-Control/assets/99050861/bb0af638-eaa8-4912-8f6b-cb20f6e012ff">
 
-<img width="414" alt="image" src="https://github.com/HemanthReddy10/Software-Management-And-Quality-Control/assets/99050861/c2db46fb-fd14-4cf9-90e8-0d319d4d1a33">
+<br/>
+
+<img width="900" alt="image" src="https://github.com/HemanthReddy10/Software-Management-And-Quality-Control/assets/99050861/c2db46fb-fd14-4cf9-90e8-0d319d4d1a33">
 
 
